@@ -1,0 +1,4 @@
+#Sat Apr 30 02:03:02 CST 2022
+base.0=/Users/dearkazaf/Desktop/mahjong_cal/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

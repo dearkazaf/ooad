@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+dev/ruichen/mahjong_cal/BuildConfig.java
+ dev.ruichen.mahjong_cal.BuildConfig

@@ -1,0 +1,1 @@
+enum EnumWinType { selfDraw, ron }
